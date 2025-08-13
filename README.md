@@ -1,5 +1,3 @@
-I can't directly create files on your system, but I can rewrite the readme for you in more detail:
-
 ## minikeyvalue: A Simple Distributed Key-Value Store
 
 Minikeyvalue is a lightweight (around 1000 lines of code) distributed key-value store written in Rust. It's designed for simplicity and scalability, making it a good option for storing large amounts of data (between 1MB and 1GB per value) across multiple machines. 
